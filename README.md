@@ -94,7 +94,7 @@ Activa el Modo Supremo con `H` para desbloquear poderes especiales. Cada poder t
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/ping-pong-cosmico.git
+git clone https://github.com/MixDark/ping-pong-cosmico.git
 ```
 
 2. Navega al directorio:
@@ -108,7 +108,7 @@ cd ping-pong-cosmico
 
 ## 🌐 Jugar Online
 
-Puedes jugar directamente en: [https://TU_USUARIO.github.io/ping-pong-cosmico/panel.html](https://TU_USUARIO.github.io/ping-pong-cosmico/panel.html)
+Puedes jugar directamente en: [https://MixDark.github.io/ping-pong-cosmico/panel.html](https://MixDark.github.io/ping-pong-cosmico/panel.html)
 
 ## 📱 Compatibilidad
 
@@ -121,13 +121,13 @@ Puedes jugar directamente en: [https://TU_USUARIO.github.io/ping-pong-cosmico/pa
 ## 🎨 Capturas de Pantalla
 
 ### Menú Principal
-![Menú Principal](screenshots/menu.png)
+<img width="787" height="903" alt="image" src="https://github.com/user-attachments/assets/5150392c-1c57-494e-914a-1d640dae0f4f" />
 
 ### Juego en Acción
-![Gameplay](screenshots/gameplay.png)
+<img width="1600" height="757" alt="image" src="https://github.com/user-attachments/assets/779e91a0-8d2a-43d1-9235-2a689608713c" />
 
 ### Modo Supremo
-![Modo Supremo](screenshots/modo-supremo.png)
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/65d7ff11-1de2-4bcc-a75e-8230ce3c5d44" />
 
 ## 🏆 Sistema de Puntuación
 
@@ -141,10 +141,6 @@ Puedes jugar directamente en: [https://TU_USUARIO.github.io/ping-pong-cosmico/pa
 - Música y efectos de sonido generados proceduralmente con Web Audio API
 - Ondas cuadradas retro para una experiencia arcade auténtica
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor:
@@ -155,20 +151,14 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📧 Contacto
-
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter)
-
-Link del Proyecto: [https://github.com/TU_USUARIO/ping-pong-cosmico](https://github.com/TU_USUARIO/ping-pong-cosmico)
-
 ## 🙏 Agradecimientos
 
 - Inspirado en los clásicos juegos de arcade
 - Efectos visuales inspirados en el espacio y la geometría sagrada
 - Comunidad de desarrolladores de juegos HTML5
 
----
 
 ⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub!
 
 **¡Disfruta jugando Ping-Pong Cósmico!** 🎮✨
+
