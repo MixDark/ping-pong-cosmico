@@ -108,7 +108,7 @@ cd ping-pong-cosmico
 
 ## 🌐 Jugar Online
 
-Puedes jugar directamente en: [https://MixDark.github.io/ping-pong-cosmico/panel.html](https://MixDark.github.io/ping-pong-cosmico/)
+Puedes jugar directamente en: [https://MixDark.github.io/ping-pong-cosmico/](https://MixDark.github.io/)
 
 ## 📱 Compatibilidad
 
@@ -161,5 +161,6 @@ Las contribuciones son bienvenidas. Por favor:
 ⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub!
 
 **¡Disfruta jugando Ping-Pong Cósmico!** 🎮✨
+
 
 
